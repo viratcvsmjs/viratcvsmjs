@@ -1,42 +1,98 @@
-<!-- Profile Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/cf/46/56/cf4656e9309b24893f396c8dd79df76b.gif" width="100%" alt="Cool Banner"/>
+  <img src="https://i.pinimg.com/originals/cf/46/56/cf4656e9309b24893f396c8dd79df76b.gif" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">🔥 Vansh a.k.a. viratcvsmjs 🔥</h1>
-<p align="center">Full Stack Developer • Fire Safety Expert • Creative Coder 🚀</p>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F97316&center=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Vansh+aka+viratcvsmjs;Fire+Safety+Expert+%F0%9F%94%A5;Website+Maker+%F0%9F%92%BC;Animation+Lover+%F0%9F%8E%AC;Full-Stack+Web+Wizard+%E2%9A%A1"
+  alt="Typing SVG" />
+</h1>
 
 ---
 
-### 💫 About Me
+### 🎨 About Me
 
-
-const viratcvsmjs = {
-  name: "Vansh",
-  passions: ["🔥 Fire Safety", "🧠 Creative Coding", "🎮 Gaming", "📺 Animation"],
-  tools: ["HTML", "CSS", "JavaScript", "Tailwind", "Photoshop"],
-  funFact: "I can turn ANYTHING into a beautiful website ✨"
-}
+> I'm **Vansh**, your friendly dev with a love for 🔥 fire safety and 💻 coding magic.  
+> I build **websites that talk, move, click, and vibe**.  
+> Also run a cartoon animation YouTube channel 📺.
 
 ---
 
-🚀 My Best Projects
-💼 Project	📄 Description	🔗 Link
-Vansh Fire Control 🔥	Full fire safety website with stunning visuals, working buttons & animations.	Explore 🌍
-ToonFlix9 📺	YouTube channel with fun cartoon animations made by me!	Watch ▶️
-Multiplayer Car Game 🏎️	Advanced HTML/JS racing game with 3D gifs, player selection & scoring.	Preview 🚗
-Admin Dashboard 👑	Personal dashboard site with Admin login & cool UI.	Coming Soon ⏳
-🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,figma" />
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=viratcvsmjs&show_icons=true&theme=radical" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=viratcvsmjs&theme=radical" width="45%" /> </p>
-🌐 Connect With Me
-<p align="center"> <a href="mailto:viratvansh9@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a> <a href="https://wa.me/919873777990"><img src="https://img.icons8.com/color/48/whatsapp--v1.png"/></a> <a href="https://www.instagram.com/vanshfirecontrol"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a> <a href="https://x.com/SkSwamig"><img src="https://img.icons8.com/color/48/twitter--v1.png"/></a> <a href="https://www.facebook.com/sushilkumar.swami.1"><img src="https://img.icons8.com/color/48/facebook-new.png"/></a> </p>
-🧠 Bonus: My Vibes
-✨ I build beautiful, animated, button-rich websites
-✨ I mix coding with real-world safety: FIRE SAFETY & WEB DEV 🔥
-✨ I love animations, emojis, and super functional buttons
-✨ I create content that feels alive 🧿
+### 🧑‍💻 Tech Stack
 
-<p align="center"> <img src="https://img.freepik.com/premium-photo/red-portable-fire-extinguisher-with-nozzle-essential-fire-safety-equipment_993198-7476.jpg" width="200" /> <img src="https://m.media-amazon.com/images/I/412J8JlXeML._AC_UF1000,1000_QL80_.jpg" width="200" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,photoshop" />
+</p>
+
+---
+
+### 🧠 My Mascot (me in toon-form)
+
+<p align="center">
+  <img src="https://media.tenor.com/-6a69k3ZtnEAAAAj/fireman-firefighter.gif" width="200" alt="Cartoon Mascot" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| 💼 Project | 📄 Description | 🔗 Link |
+|-----------|----------------|--------|
+| 🔥 **Vansh Fire Control** | Advanced fire safety site with stunning UI, real buttons & effects. | [Visit 🔥](https://sites.google.com/view/vansh-ki-shop/home) |
+| 🎮 **Multiplayer Car Game** | A supercharged HTML/JS racing game with gif cars, score system, player selection. | Coming Soon 🚗 |
+| 📺 **ToonFlix9** | Cartoon animation channel made with ❤️. | [YouTube ▶️](https://www.youtube.com/@ToonFlix9?app=desktop) |
+| 🧑‍💼 **Admin Dashboard** | Personal profile site with working Admin login & effects. | Releasing Soon 🚀 |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viratcvsmjs&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=viratcvsmjs&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:viratvansh9@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
+  <a href="https://wa.me/919873777990"><img src="https://img.icons8.com/color/48/whatsapp--v1.png"/></a>
+  <a href="https://www.instagram.com/vanshfirecontrol"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
+  <a href="https://x.com/SkSwamig"><img src="https://img.icons8.com/color/48/twitter--v1.png"/></a>
+  <a href="https://www.facebook.com/sushilkumar.swami.1"><img src="https://img.icons8.com/color/48/facebook-new.png"/></a>
+</p>
+
+---
+
+### 🔥 Fire Vibes Only
+
+- 🔘 I love animated buttons & stylish code  
+- 🛡️ Fire safety isn't just a topic, it’s a lifestyle  
+- 🎨 I make every element on screen feel *alive*  
+- 🧈 Designs? Smooth as butter  
+- 👨‍🚒 I code like a dev, fight fires like a pro
+
+---
+
+### 👀 Visitors Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=viratcvsmjs&style=for-the-badge&color=fb8500&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+---
+
+### 🚧 Under Construction
+
+> New projects loading...  
+> More UI magic dropping soon...  
+> Stay tuned & follow for 🔥 stuff.
+
+---
+
+> Made with 💖 by **Vansh (viratcvsmjs)**  
+> 💥 Let's make the web explode with cool!
 
