@@ -1,12 +1,12 @@
-<!-- Banner -->
+<!-- Banner with Cool Effect -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/cf/46/56/cf4656e9309b24893f396c8dd79df76b.gif" width="100%" alt="Banner"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation with Glowing Effect -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=F97316&center=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Vansh+aka+viratcvsmjs;Fire+Safety+Expert+%F0%9F%94%A5;Website+Maker+%F0%9F%92%BC;Animation+Lover+%F0%9F%8E%AC;Full-Stack+Web+Wizard+%E2%9A%A1"
-  alt="Typing SVG" />
+  alt="Typing SVG" style="text-shadow: 0px 0px 10px rgba(255, 165, 0, 0.8), 0px 0px 20px rgba(255, 165, 0, 0.7), 0px 0px 30px rgba(255, 165, 0, 0.6);" />
 </h1>
 
 ---
@@ -22,8 +22,10 @@
 ### 🧑‍💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,photoshop,python,nodejs" />
 </p>
+
+<h3 align="center">Tech that makes the 🔥 magic happen!</h3>
 
 ---
 
@@ -46,11 +48,30 @@
 
 ---
 
+### 🏆 Project Progress & Cool Loading Indicators
+
+#### 🔥 **Vansh Fire Control** Progress:
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge&logo=appveyor" alt="Progress">
+</p>
+
+#### 🎮 **Multiplayer Car Game** (Coming Soon!):
+<p align="center">
+  <img src="https://img.shields.io/badge/Coming%20Soon-🚗-blue?style=for-the-badge&logo=appveyor" alt="Coming Soon">
+</p>
+
+#### 🧑‍💼 **Admin Dashboard**:
+<p align="center">
+  <img src="https://img.shields.io/badge/Releasing%20Soon-🚀-yellow?style=for-the-badge&logo=appveyor" alt="Releasing Soon">
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viratcvsmjs&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=viratcvsmjs&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viratcvsmjs&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=viratcvsmjs&theme=tokyonight&border_radius=5&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -58,11 +79,11 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:viratvansh9@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
-  <a href="https://wa.me/919873777990"><img src="https://img.icons8.com/color/48/whatsapp--v1.png"/></a>
-  <a href="https://www.instagram.com/vanshfirecontrol"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
-  <a href="https://x.com/SkSwamig"><img src="https://img.icons8.com/color/48/twitter--v1.png"/></a>
-  <a href="https://www.facebook.com/sushilkumar.swami.1"><img src="https://img.icons8.com/color/48/facebook-new.png"/></a>
+  <a href="mailto:viratvansh9@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" title="Send me an email!" /></a>
+  <a href="https://wa.me/919873777990"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="Whatsapp" title="Chat on WhatsApp!" /></a>
+  <a href="https://www.instagram.com/vanshfirecontrol"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Follow me on Instagram!" /></a>
+  <a href="https://x.com/SkSwamig"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" title="Follow me on Twitter!" /></a>
+  <a href="https://www.facebook.com/sushilkumar.swami.1"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" title="Find me on Facebook!" /></a>
 </p>
 
 ---
@@ -95,4 +116,11 @@
 
 > Made with 💖 by **Vansh (viratcvsmjs)**  
 > 💥 Let's make the web explode with cool!
+
+---
+
+<!-- Fire Safety Badge with Cool Effect -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Certified%20Fire%20Safety%20Expert-%F0%9F%94%A5-red?style=for-the-badge&logo=appveyor" alt="Fire Safety Badge" title="Certified Fire Safety Expert"/>
+</p>
 
