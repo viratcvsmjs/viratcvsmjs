@@ -1,73 +1,42 @@
-<h1 align="center">👋 Hey there, I'm Vansh a.k.a. viratcvsmjs</h1>
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.tenor.com/Nt4e_5FlHRIAAAAC/virat-kohli.gif" width="200" alt="Virat Kohli GIF"/>
+  <img src="https://i.pinimg.com/originals/cf/46/56/cf4656e9309b24893f396c8dd79df76b.gif" width="100%" alt="Cool Banner"/>
 </p>
 
-<p align="center">
-  🚀 Developer | 🎮 Gamer | 🔥 Fire Safety Expert | 💡 Coding Enthusiast  
-</p>
+<h1 align="center">🔥 Vansh a.k.a. viratcvsmjs 🔥</h1>
+<p align="center">Full Stack Developer • Fire Safety Expert • Creative Coder 🚀</p>
 
 ---
 
-### 🧑‍💻 About Me
+### 💫 About Me
 
-Hi! I'm **Vansh**, a passionate developer who loves to build amazing websites, animation channels, and interactive games. I enjoy working with HTML, CSS, JavaScript, and pushing creativity through animated UI, functional buttons, and custom designs. My goal is to make every project look *beautiful, advanced*, and *ultra-smooth like butter* 🧈.
 
----
-
-### 🚀 Featured Projects
-
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| 🔥 **Vansh Fire Control** | A beautiful fire safety application with advanced visuals, buttons, and animations. | [Visit Site 🌐](https://sites.google.com/view/vansh-ki-shop/home) |
-| 📺 **ToonFlix9** | A cartoon animation YouTube channel. | [Watch on YouTube ▶️](https://www.youtube.com/@ToonFlix9?app=desktop) |
-| 🕹️ **Multiplayer Car Game** | High-graphic multiplayer racing game with car animations and player selection. | [Preview Soon 🚗](#) |
-| 🌐 **Personal Dashboard Website** | A full-featured personal site with About Me, Portfolio, Contact form & Admin section. | [Coming Soon 💻](#) |
+const viratcvsmjs = {
+  name: "Vansh",
+  passions: ["🔥 Fire Safety", "🧠 Creative Coding", "🎮 Gaming", "📺 Animation"],
+  tools: ["HTML", "CSS", "JavaScript", "Tailwind", "Photoshop"],
+  funFact: "I can turn ANYTHING into a beautiful website ✨"
+}
 
 ---
 
-### 🧠 Skills
+🚀 My Best Projects
+💼 Project	📄 Description	🔗 Link
+Vansh Fire Control 🔥	Full fire safety website with stunning visuals, working buttons & animations.	Explore 🌍
+ToonFlix9 📺	YouTube channel with fun cartoon animations made by me!	Watch ▶️
+Multiplayer Car Game 🏎️	Advanced HTML/JS racing game with 3D gifs, player selection & scoring.	Preview 🚗
+Admin Dashboard 👑	Personal dashboard site with Admin login & cool UI.	Coming Soon ⏳
+🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,figma" />
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=viratcvsmjs&show_icons=true&theme=radical" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=viratcvsmjs&theme=radical" width="45%" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="mailto:viratvansh9@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a> <a href="https://wa.me/919873777990"><img src="https://img.icons8.com/color/48/whatsapp--v1.png"/></a> <a href="https://www.instagram.com/vanshfirecontrol"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a> <a href="https://x.com/SkSwamig"><img src="https://img.icons8.com/color/48/twitter--v1.png"/></a> <a href="https://www.facebook.com/sushilkumar.swami.1"><img src="https://img.icons8.com/color/48/facebook-new.png"/></a> </p>
+🧠 Bonus: My Vibes
+✨ I build beautiful, animated, button-rich websites
+✨ I mix coding with real-world safety: FIRE SAFETY & WEB DEV 🔥
+✨ I love animations, emojis, and super functional buttons
+✨ I create content that feels alive 🧿
 
-- ⚙️ Languages: HTML, CSS, JavaScript  
-- 🧩 Frameworks: Bootstrap, Tailwind, Vanilla JS  
-- 🎨 Design: Photoshop, Figma, Canva  
-- 🔒 Fire Safety Knowledge 💯  
-- 🎥 Animation Tools & YouTube Editing
-
----
-
-### 📞 Contact Me
-
-- 📧 **Email:** viratvansh9@gmail.com  
-- 📱 **WhatsApp:** [9873777990](https://wa.me/919873777990)  
-- 🔗 **Socials:**  
-  [Facebook](https://www.facebook.com/sushilkumar.swami.1) •  
-  [Instagram](https://www.instagram.com/vanshfirecontrol) •  
-  [Twitter / X](https://x.com/SkSwamig)
-
----
-
-### ✨ Fun Facts
-
-- I love the color combo: `#ffb703`, `#023047`, and `#8ecae6` 🌈  
-- I design **Read More / Read Less** buttons with beautiful toggle effects!  
-- Fire safety is not just a job – it’s a passion 🔥  
-- I make my websites feel like **magic with buttons & animations** 🪄
-
----
-
-### ❤️‍🔥 Want Something Cool?
-
-> Check out my latest **buttons, cards, and animated designs**.  
-> From ‘Buy Now’ to ‘Create’ – everything is fully functional.
-
----
-
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/red-portable-fire-extinguisher-with-nozzle-essential-fire-safety-equipment_993198-7476.jpg" width="300" alt="Fire Extinguisher">
-</p>
-
----
-
-_⭐ Star my projects if you like them and feel free to connect!_
+<p align="center"> <img src="https://img.freepik.com/premium-photo/red-portable-fire-extinguisher-with-nozzle-essential-fire-safety-equipment_993198-7476.jpg" width="200" /> <img src="https://m.media-amazon.com/images/I/412J8JlXeML._AC_UF1000,1000_QL80_.jpg" width="200" /> </p>
 
